@@ -1,1 +1,1 @@
-# Full-Stack-open--kurssi
+# Full Stack open -kurssi
